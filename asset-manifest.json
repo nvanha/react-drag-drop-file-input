@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-drag-drop-file-input/static/css/main.e40a3cd1.chunk.css",
+    "main.js": "/react-drag-drop-file-input/static/js/main.da9d6904.chunk.js",
+    "main.js.map": "/react-drag-drop-file-input/static/js/main.da9d6904.chunk.js.map",
+    "runtime-main.js": "/react-drag-drop-file-input/static/js/runtime-main.71d60127.js",
+    "runtime-main.js.map": "/react-drag-drop-file-input/static/js/runtime-main.71d60127.js.map",
+    "static/js/2.b360f2f4.chunk.js": "/react-drag-drop-file-input/static/js/2.b360f2f4.chunk.js",
+    "static/js/2.b360f2f4.chunk.js.map": "/react-drag-drop-file-input/static/js/2.b360f2f4.chunk.js.map",
+    "index.html": "/react-drag-drop-file-input/index.html",
+    "static/css/main.e40a3cd1.chunk.css.map": "/react-drag-drop-file-input/static/css/main.e40a3cd1.chunk.css.map",
+    "static/js/2.b360f2f4.chunk.js.LICENSE.txt": "/react-drag-drop-file-input/static/js/2.b360f2f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71d60127.js",
+    "static/js/2.b360f2f4.chunk.js",
+    "static/css/main.e40a3cd1.chunk.css",
+    "static/js/main.da9d6904.chunk.js"
+  ]
+}
